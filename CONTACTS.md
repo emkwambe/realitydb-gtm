@@ -1,7 +1,7 @@
 # Prospect Contact List
 
 Last updated: 2026-07-16
-Total contacts: 11
+Total contacts: 14
 Outreach sent: 0
 Responses: 0
 
@@ -34,7 +34,9 @@ Responses: 0
 | Name | Title | Company | LinkedIn | Status | Notes |
 |------|-------|---------|----------|--------|-------|
 | Abhishek Roy | Retail Analytics Data Engineering Manager | Truist Financial | Search: Abhishek Roy Truist Charlotte | FOUND | BEST FIRST TOUCH — builds pipelines on banking data, feels production data pain daily, can expense without procurement |
-| | | | | | | |
+| Tina Esposito | SVP & Chief Data Officer | Advocate Health (Atrium Health) | linkedin.com/in/tina-esposito-19287412 | FOUND | TOP TARGET. Owns cloud data engineering, governance, data science; leads modern data platform + post-merger data integration. CDO since Apr 2023 |
+| Rasu B. Shrestha | Enterprise EVP, Chief Strategy & Transformation Officer | Advocate Health (Atrium Health) | Search: Rasu Shrestha Advocate Health | FOUND | Executive sponsor for enterprise data & analytics. Charlotte-based. Top-down air cover. URL unverified |
+| Andy Crowder | SVP, Chief Digital Officer & CIO Southeast Region | Advocate Health (Atrium Health) | linkedin.com/in/andycrowder | FOUND | Charlotte-based. Former Atrium Chief Information & Analytics Officer. Strong secondary exec contact |
 
 ## Tier 3 — Bootcamp Instructors
 
