@@ -59,7 +59,98 @@ Novant Health is a ~$10B-revenue not-for-profit integrated health system headqua
 | Sandip Ray | Healthcare analytics, Novant Health (Charlotte) | https://www.linkedin.com/in/sr72/ | Charlotte-based analytics; title unconfirmed. |
 
 ## Outreach Messages
-To be drafted by message-drafter agent.
+
+_From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). Framing: HIPAA blocks production patient data. Relevant pack: us-healthcare (ICD-10-CM, MS-DRG, HIPAA-safe, 99/100 quality). Pain anchor for exec-level messages = the $6.6M Meta-pixel HIPAA settlement (~1.36M patients). Karen Hegarty framed around safe AI development data._
+
+### Stephanie Lenzner — SVP, Value Intelligence (PRIMARY / economic buyer)
+
+**LinkedIn connection request (<300 chars)**
+> Stephanie — congrats on the Value Intelligence role. As you build Novant's data foundation, the $6.6M Meta-pixel settlement is the cautionary tale: real PHI in the wrong environment is expensive. I built RealityDB, a CLI for HIPAA-safe synthetic patient data. Would love to connect.
+
+**LinkedIn DM follow-up (<150 words)**
+> Stephanie — congratulations on the SVP, Value Intelligence appointment. You're building the data foundation for analytics and data science exactly as Novant triples in size and absorbs acquisitions like Stokes.
+>
+> The $6.6M Meta-pixel settlement already showed what real PHI in the wrong environment costs. RealityDB (@realitydb/cli) gives your teams realistic ICD-10-CM / MS-DRG patient data — 99/100 quality, deterministically seeded — so every migration, dashboard and QA cycle runs on production-shaped data with zero PHI.
+>
+> For a first-90-days leader setting tooling, it's a clean way to make "no real PHI in dev/test" the default from day one.
+>
+> Could I send a free Novant-relevant sample to try?
+> — Eddy (Charlotte)
+
+### Onyeka Nchege — EVP, Chief Digital & Information Officer (EXEC SPONSOR)
+
+**LinkedIn connection request (<300 chars)**
+> Onyeka — your "experimentation as a service" mandate and Truveta board seat say you already believe in privacy-preserving data at scale. After the $6.6M pixel settlement, synthetic data is the sandbox that keeps real PHI out of experiments. I built RealityDB for exactly that. Would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Onyeka — "experimentation as a service" only works if teams can experiment without dragging real PHI through every sandbox — and the $6.6M Meta-pixel settlement is the expensive proof of what happens when they do.
+>
+> RealityDB (@realitydb/cli) is that sandbox's data layer: HIPAA-safe synthetic patient data — ICD-10-CM, MS-DRG, realistic encounters — generated in one command at 99/100 quality. Your Truveta board seat already reflects the thesis; this is the same privacy-preserving idea for internal dev, QA and AI experimentation.
+>
+> Teams move fast on Epic/Cogito and AI models without waiting on de-identified-data access.
+>
+> Worth a 15-minute look with you or Stephanie's team?
+> — Eddy (Charlotte)
+
+### Karen Hegarty, PhD — Head of AI & Innovation (safe AI development data)
+
+**LinkedIn connection request (<300 chars)**
+> Karen — leading AI & Innovation with an ethical/safe-AI focus, you need training and eval data that never exposes real PHI. I built RealityDB, a CLI for HIPAA-safe synthetic patient data — ICD-10-CM, MS-DRG — built for exactly that. Charlotte founder — would love to connect.
+
+**LinkedIn DM follow-up (<150 words)**
+> Karen — safe, trustworthy AI starts with the data you develop and evaluate on, and real PHI in model-building environments is exactly the exposure the Institute exists to govern.
+>
+> RealityDB (@realitydb/cli) generates HIPAA-safe synthetic patient data — ICD-10-CM diagnoses, MS-DRG groupings, realistic encounters — deterministically seeded so AI experiments and evaluations are reproducible, at 99/100 quality. Teams prototype and validate models on production-shaped data with zero PHI, then move to governed real data only when truly needed.
+>
+> It's a clean fit for the ethical-AI posture the Institute vets use cases against.
+>
+> Could I send a free sample for an AI use case your team is exploring?
+> — Eddy (Charlotte)
+
+### Keith Murphy, PhD — Data Scientist II (technical validator)
+
+**LinkedIn connection request (<300 chars)**
+> Keith — as a data scientist at Novant, you're the one who needs realistic patient data to build and test models, and real PHI isn't an option in dev. I built RealityDB, a CLI that generates HIPAA-safe synthetic ICD-10-CM/MS-DRG data. Charlotte-based founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Keith — model work needs realistic, edge-case-rich patient data, and HIPAA keeps real PHI out of the environments where you actually build and test.
+>
+> RealityDB (@realitydb/cli) generates HIPAA-safe synthetic patient data in one command — ICD-10-CM, MS-DRG, realistic encounters and demographics — deterministically seeded so a model run or a failing test reproduces exactly. 99/100 quality, 303 passing tests.
+>
+> It's meant to drop straight into a notebook or pipeline so you can start day one without a PHI-access request.
+>
+> Happy to send you a free sample to try locally — want me to?
+> — Eddy (Charlotte)
+
+### Stephanie Fontanella — Director of Informatics Solutions
+
+**LinkedIn connection request (<300 chars)**
+> Stephanie — informatics solutions work constantly needs realistic patient data for build and test, and HIPAA keeps real PHI out of those environments. I built RealityDB, a CLI for HIPAA-safe synthetic ICD-10-CM/MS-DRG data. Would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Stephanie — informatics solutions live on realistic patient data, but HIPAA keeps real PHI out of the dev, test and demo environments where your team builds.
+>
+> RealityDB (@realitydb/cli) generates HIPAA-safe synthetic patient data — ICD-10-CM, MS-DRG, realistic encounters and demographics — in one command, 99/100 quality, deterministically seeded so builds and tests reproduce. It maps cleanly onto an Epic Cogito → warehouse → BI flow.
+>
+> Your team gets production-shaped data for prototyping and pipeline testing while PHI stays in production.
+>
+> Can I send a free Novant-relevant sample for your team to try?
+> — Eddy (Charlotte)
+
+### Sandip Ray — Healthcare Analytics, Charlotte
+
+**LinkedIn connection request (<300 chars)**
+> Sandip — healthcare analytics work needs realistic patient data to prototype dashboards and test pipelines, and real PHI can't go into those environments. I built RealityDB, a Charlotte-made CLI for HIPAA-safe synthetic ICD-10-CM/MS-DRG data. Would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Sandip — prototyping analytics and testing pipelines both need realistic patient data, and HIPAA keeps real PHI out of dev/test.
+>
+> RealityDB (@realitydb/cli) generates HIPAA-safe synthetic patient data — ICD-10-CM, MS-DRG, realistic encounters — in one command, 99/100 quality, deterministically seeded so dashboards and tests reproduce exactly.
+>
+> It gives you production-shaped data to build and demo against without waiting on PHI access or risking exposure.
+>
+> Both of us are Charlotte-based — happy to send a free sample tuned to a Novant use case. Want me to?
+> — Eddy (Charlotte)
 
 ## Sources
 - https://www.novanthealth.org/about/company/our-leadership/

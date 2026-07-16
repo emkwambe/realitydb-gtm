@@ -57,7 +57,98 @@ LendingTree, Inc. (NASDAQ: TREE) is an online financial-services marketplace tha
 | Luis Lema | Staff Data Engineer | Search: "Luis Lema LendingTree Staff Data Engineer" | Senior IC; potential hands-on evaluator. Exact LinkedIn URL not verified. |
 
 ## Outreach Messages
-To be drafted by message-drafter agent.
+
+_From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). Framing: LendingTree is a fintech/lending marketplace — pain is mortgage lead data, credit-scoring pipelines, and conversion analytics, not wires/SEPA. Relevant packs: us-banking (loan data, credit scores, FICO distributions) + fintech._
+
+### Darshit Parekh — Senior Director, Data Engineering (PRIMARY)
+
+**LinkedIn connection request (<300 chars)**
+> Darshit — you own LendingTree's data platform and the CDP/single-source-of-truth build merging Marketing, Product, Sales & Contact Center data. Seeding those lower environments with real applicant PII is a GLBA/FCRA headache. I built RealityDB, a CLI for synthetic lending data. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Darshit — unifying four channels into one customer-intelligence platform means your dev/test/QA environments need production-shaped data, and real applicant records (income, SSNs, credit) can't safely go there.
+>
+> RealityDB (@realitydb/cli) generates synthetic lending/credit datasets — MOD-10-valid ABA routing, realistic FICO and income/DTI distributions, plus rare high-risk edge cases production data rarely surfaces — in one command. 99/100 quality, deterministic seeding so tests reproduce exactly.
+>
+> Happy to generate a free sample shaped to a LendingTree pipeline you're building — mortgage or personal-loan applications, your call — so you can drop it straight into a lower environment.
+>
+> Worth 15 minutes to see if it fits?
+> — Eddy (Charlotte)
+
+### Sarah Bacha — SVP, Head of Analytics & Corporate Strategy (+ AI) (AIR COVER)
+
+**LinkedIn connection request (<300 chars)**
+> Sarah — saw LendingTree championing NC's AI Strategic Roadmap and consumer-protection-first AI through your Advisory Council seat. Synthetic data lets your teams build and validate models without real applicant PII in dev/test — responsible by design. I built RealityDB for exactly this. Would love to connect.
+
+**LinkedIn DM follow-up (<150 words)**
+> Sarah — your public stance on responsible, consumer-protection-first AI (and the NC AI Roadmap work) is the exact posture I built RealityDB around.
+>
+> Every model your AI lab and DS team build gets safer if real applicant PII never touches dev/test. RealityDB (@realitydb/cli) generates synthetic banking/insurance data — realistic FICO, income, credit and insurance distributions, with rare high-risk edge cases that make model validation and fair-lending testing stronger — all GLBA-safe and reproducible.
+>
+> It's the "responsible by design" data layer underneath the AI governance you're already advocating.
+>
+> Could I send your team a free LendingTree-relevant sample to try in a lower environment?
+> — Eddy (Charlotte)
+
+### Samira Shaikh — Director, Data Science
+
+**LinkedIn connection request (<300 chars)**
+> Samira — with your DS team scaling and validating credit/insurance-matching models, the bottleneck is usually realistic, edge-case-rich data you can't pull from production. I built RealityDB, a CLI for synthetic lending/insurance data with controllable rare cases. Charlotte founder (and UNCC fan) — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Samira — building and validating credit- and insurance-matching models is only as good as the edge cases in your data, and production rarely surfaces the rare/high-risk scenarios safely.
+>
+> RealityDB (@realitydb/cli) generates synthetic lending/insurance datasets with deliberately controllable distributions — FICO, income/DTI, fraud and high-risk edge cases — deterministically seeded so model tests reproduce, and free of the GLBA/FCRA exposure of real applicant PII.
+>
+> For a team that's actively hiring, it also means new data scientists start on realistic data day one, no prod-data wait.
+>
+> I'd love to generate a free sample tuned to one of your model-validation use cases. Open to a quick look?
+> — Eddy (Charlotte)
+
+### Brian Holbrook — Senior Manager, Revenue Analytics
+
+**LinkedIn connection request (<300 chars)**
+> Brian — revenue analytics at LendingTree runs on conversion and lead-quality data that's hard to prototype against without touching real applicant records. I built RealityDB, a CLI that generates realistic synthetic lending/conversion data for exactly that. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Brian — prototyping revenue and conversion analytics usually means either waiting on prod-data access or risking real applicant PII in a dashboard sandbox.
+>
+> RealityDB (@realitydb/cli) generates production-shaped synthetic lending data — applications, FICO/income distributions, conversion-relevant fields — in one CLI command, deterministically seeded so your dashboards and tests reproduce. No GLBA/FCRA exposure.
+>
+> It's a fast way to build and demo revenue-analytics views before real data is wired in.
+>
+> Can I send you a free sample shaped to a LendingTree conversion funnel to try?
+> — Eddy (Charlotte)
+
+### Owais Ahmed — Principal / Lead Data Engineer
+
+**LinkedIn connection request (<300 chars)**
+> Owais — as a hands-on owner of LendingTree's pipelines, you feel the test-data problem daily: you can't seed lower environments with real applicant PII. I built RealityDB, a CLI that generates realistic synthetic lending data at volume. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Owais — pipeline work lives or dies on test data, and real applicant records (income, SSNs, credit) can't go into dev/test/QA without GLBA/FCRA headaches.
+>
+> RealityDB (@realitydb/cli) generates synthetic lending/credit datasets at volume from one command — MOD-10-valid ABA routing, realistic FICO/income/DTI, rare high-risk edge cases — deterministically seeded so pipeline tests reproduce. 99/100 quality, 303 passing tests.
+>
+> It drops straight into Snowflake/streaming ETL, no prod-data request needed.
+>
+> Happy to generate a free sample matched to one of your pipelines. Worth a look?
+> — Eddy (Charlotte)
+
+### Luis Lema — Staff Data Engineer
+
+**LinkedIn connection request (<300 chars)**
+> Luis — staff-level pipeline work means constantly needing realistic data for dev/test that can't be real applicant PII. I built RealityDB, a CLI that generates synthetic lending/credit data at volume, deterministically seeded. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Luis — as a staff engineer you're the one who ends up needing production-shaped data for pipeline dev, QA and reproducing bugs — and real applicant PII isn't an option in lower environments.
+>
+> RealityDB (@realitydb/cli) generates synthetic lending/credit datasets in one command — valid ABA routing, realistic FICO/income distributions, rare edge cases — deterministically seeded so a failing test reproduces exactly. 99/100 quality score.
+>
+> It loads straight into Snowflake or your streaming ETL, no prod-data request.
+>
+> Can I send you a free sample shaped to a LendingTree pipeline to try locally?
+> — Eddy (Charlotte)
 
 ## Sources
 - LendingTree Investor Relations — https://investors.lendingtree.com/

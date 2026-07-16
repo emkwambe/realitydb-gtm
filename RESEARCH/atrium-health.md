@@ -63,7 +63,53 @@ From public job postings and press:
 | Andy Crowder | SVP, Chief Digital Officer & CIO Southeast Region, Advocate Health | https://www.linkedin.com/in/andycrowder | Charlotte-based. Former Atrium Chief Information & Analytics Officer (since 2019). CHCIO, CDH-E. Leads digital/IT for the Southeast; strong secondary exec contact. |
 
 ## Outreach Messages
-To be drafted by message-drafter agent.
+
+_From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). Framing: HIPAA blocks production patient data from dev/test. Relevant pack: us-healthcare (ICD-10-CM, MS-DRG, HIPAA-safe, 99/100 quality). Their analysts need realistic patient-encounter data for dashboard prototyping and pipeline testing — mapping to Epic Cogito → Snowflake → Power BI._
+
+### Tina Esposito — SVP & Chief Data Officer, Advocate Health (PRIMARY)
+
+**LinkedIn connection request (<300 chars)**
+> Tina — you own cloud data engineering, governance and data science at Advocate, and you've spoken about the pragmatic work of integrating post-merger data on a modern platform. Every integration cycle needs realistic test data that isn't real PHI. I built RealityDB for exactly that. Would love to connect.
+
+**LinkedIn DM follow-up (<150 words)**
+> Tina — integrating Atrium + Advocate Aurora data (and soon WakeMed/OrthoCarolina) means constant pipeline validation, and HIPAA means you can't use real PHI to do it.
+>
+> RealityDB (@realitydb/cli) generates HIPAA-safe synthetic patient data — ICD-10-CM diagnoses, MS-DRG groupings, realistic encounters and demographics — in one command, 99/100 quality, deterministically seeded so pipeline and BI tests reproduce exactly. It maps cleanly onto Epic Cogito → Snowflake → Power BI.
+>
+> Teams build and validate on production-shaped data while real PHI never leaves production — the governed posture your TRAIN membership points at.
+>
+> Could I send your team a free Atrium-relevant sample to try in a lower environment?
+> — Eddy (Charlotte)
+
+### Rasu B. Shrestha — Enterprise EVP, Chief Strategy & Transformation Officer (EXEC AIR COVER)
+
+**LinkedIn connection request (<300 chars)**
+> Rasu — as executive sponsor for Advocate's enterprise data and analytics, you own the tension between moving fast on AI and keeping real PHI out of dev/test. I built RealityDB, a CLI for HIPAA-safe synthetic patient data. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Rasu — the transformation agenda you lead hits a recurring friction: analytics and AI teams need realistic data to move fast, but HIPAA keeps real PHI out of dev, test and vendor environments.
+>
+> RealityDB (@realitydb/cli) resolves that with HIPAA-safe synthetic patient data — ICD-10-CM, MS-DRG, realistic encounters — generated in one command at 99/100 quality. Teams prototype dashboards, test pipelines and run vendor demos on production-shaped data with zero PHI exposure.
+>
+> Given the Oracle/Cerner breach and the $1.8M web-tracker settlement, it's also a clean risk-reduction story for the board.
+>
+> Worth a 15-minute intro with you or Tina's team?
+> — Eddy (Charlotte)
+
+### Andy Crowder — SVP, Chief Digital Officer & CIO Southeast Region
+
+**LinkedIn connection request (<300 chars)**
+> Andy — leading digital/IT for Advocate's Southeast region from Charlotte, you see the test-data pain across every Epic-to-Snowflake analytics build. Real PHI can't go into dev/test. I built RealityDB, a CLI for HIPAA-safe synthetic patient data. Would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Andy — every analytics and BI build across the Southeast region hits the same wall: you need realistic patient data to develop against, but HIPAA keeps real PHI out of dev, test and QA.
+>
+> RealityDB (@realitydb/cli) generates HIPAA-safe synthetic patient data — ICD-10-CM, MS-DRG, realistic encounters and demographics — in one command, 99/100 quality, deterministically seeded so tests reproduce. It fits Epic Cogito → Snowflake → Power BI directly.
+>
+> Your teams get production-shaped data for dashboard prototyping and pipeline testing while PHI stays in production.
+>
+> Can I send a free Atrium-relevant sample for your team to try?
+> — Eddy (Charlotte)
 
 ## Sources
 - https://www.healthcareitnews.com/news/advocates-cdo-offers-tips-experience-integrating-post-acquisition-data-assets (Esposito, data org structure, modern data platform) — accessed via search snippet (page 403 on direct fetch)
