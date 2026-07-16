@@ -27,16 +27,19 @@ Responses: 0
 
 | Name | Title | Company | LinkedIn | Status | Notes |
 |------|-------|---------|----------|--------|-------|
-| | | | | | |
+| Abhishek Roy | Retail Analytics Data Engineering Manager | Truist Financial | Search: Abhishek Roy Truist Charlotte | FOUND | BEST FIRST TOUCH — builds pipelines on banking data, feels production data pain daily, can expense without procurement |
+| | | | | | | |
 
 ## Tier 3 — Bootcamp Instructors
 
 | Name | Platform | Course | Students | Status | Notes |
 |------|----------|--------|----------|--------|-------|
-| | | | | | |
+| Abhishek Roy | Retail Analytics Data Engineering Manager | Truist Financial | Search: Abhishek Roy Truist Charlotte | FOUND | BEST FIRST TOUCH — builds pipelines on banking data, feels production data pain daily, can expense without procurement |
+| | | | | | | |
 
 ## Tier 4 — Insurance Analytics
 
 | Name | Title | Company | LinkedIn | Status | Notes |
 |------|-------|---------|----------|--------|-------|
-| | | | | | |
+| Abhishek Roy | Retail Analytics Data Engineering Manager | Truist Financial | Search: Abhishek Roy Truist Charlotte | FOUND | BEST FIRST TOUCH — builds pipelines on banking data, feels production data pain daily, can expense without procurement |
+| | | | | | | |
