@@ -1,7 +1,7 @@
 # Prospect Contact List
 
 Last updated: 2026-07-16
-Total contacts: 14
+Total contacts: 20
 Outreach sent: 0
 Responses: 0
 
@@ -37,6 +37,12 @@ Responses: 0
 | Tina Esposito | SVP & Chief Data Officer | Advocate Health (Atrium Health) | linkedin.com/in/tina-esposito-19287412 | FOUND | TOP TARGET. Owns cloud data engineering, governance, data science; leads modern data platform + post-merger data integration. CDO since Apr 2023 |
 | Rasu B. Shrestha | Enterprise EVP, Chief Strategy & Transformation Officer | Advocate Health (Atrium Health) | Search: Rasu Shrestha Advocate Health | FOUND | Executive sponsor for enterprise data & analytics. Charlotte-based. Top-down air cover. URL unverified |
 | Andy Crowder | SVP, Chief Digital Officer & CIO Southeast Region | Advocate Health (Atrium Health) | linkedin.com/in/andycrowder | FOUND | Charlotte-based. Former Atrium Chief Information & Analytics Officer. Strong secondary exec contact |
+| Stephanie Lenzner | SVP, Value Intelligence (analytics, data science, performance intelligence) | Novant Health | Search: Stephanie Lenzner Novant Health | FOUND | PRIMARY TARGET / economic buyer. Named Jun 22 2026; reports to CDIO. Ex-CDAO Froedtert, ex-Mayo. URL unverified |
+| Onyeka Nchege | EVP, Chief Digital & Information Officer | Novant Health | linkedin.com/in/onyeka-nchege | FOUND | Exec sponsor. Owns analytics/AI/cyber. Truveta board member (privacy-preserving health data); 2024 Carolina ORBIE CIO of the Year |
+| Karen Hegarty, PhD | Head of AI & Innovation (Institute of Innovation & AI) | Novant Health | linkedin.com/in/karen-hegarty | FOUND | AI use-case champion; ethical/safe AI. Good for AI training-data angle |
+| Keith Murphy, PhD | Data Scientist II | Novant Health | linkedin.com/in/keith-murphymph | FOUND | Charlotte-based IC; potential technical validator |
+| Stephanie Fontanella | Director of Informatics Solutions | Novant Health | linkedin.com/in/stephanie-fontanella-66b37766 | FOUND | Informatics leadership (Greensboro area) |
+| Sandip Ray | Healthcare analytics (Charlotte) | Novant Health | linkedin.com/in/sr72 | FOUND | Charlotte-based analytics; exact title unconfirmed |
 
 ## Tier 3 — Bootcamp Instructors
 
