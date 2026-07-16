@@ -1,7 +1,7 @@
 # Prospect Contact List
 
 Last updated: 2026-07-16
-Total contacts: 5
+Total contacts: 11
 Outreach sent: 0
 Responses: 0
 
@@ -22,6 +22,12 @@ Responses: 0
 | Gurpreet Atwal | CDO Consumer & Small Business Banking | Truist Financial | Search: Gurpreet Atwal Truist | FOUND | Directly owns consumer banking data strategy |
 | Michelle Boston | CIO Head of Data Management Technology | Bank of America | Search: Michelle Boston Bank of America | FOUND | CDO Magazine interview on responsible AI — data quality focus |
 | Dinesh Janapa | Data Leader | Bank of America | linkedin.com/in/dinesh-janapa-0449b68 | FOUND | CMU CDO Best of Cohort 2025 — personally invested in data quality |
+| Darshit Parekh | Senior Director, Data Engineering | LendingTree | linkedin.com/in/darshit-mukesh-parekh | FOUND | PRIMARY entry point. At LendingTree since 2012; owns enterprise data strategy, CDP/single-source-of-truth, platform modernization |
+| Sarah Bacha (née Guidry) | SVP, Head of Analytics & Corporate Strategy (+ AI) | LendingTree | linkedin.com/in/sarah-bacha-guidry-bb3a9b19 | FOUND | Executive sponsor. Leads Analytics + AI lab; on NC AI Advisory Council; public voice on responsible AI |
+| Samira Shaikh | Director, Data Science | LendingTree | linkedin.com/in/drsamirashaikh | FOUND | PhD, NLP/GenAI; ex-UNC Charlotte faculty. Leads DS; team actively hiring. Model-validation champion |
+| Brian Holbrook | Senior Manager, Revenue Analytics | LendingTree | Search: Brian Holbrook LendingTree | FOUND | Analytics manager under Data Eng org. LinkedIn URL unverified |
+| Owais Ahmed | Principal / Lead Data Engineer | LendingTree | Search: Owais Ahmed LendingTree data engineer | FOUND | Hands-on pipeline owner. LinkedIn URL unverified |
+| Luis Lema | Staff Data Engineer | LendingTree | Search: Luis Lema LendingTree Staff Data Engineer | FOUND | Senior IC / potential evaluator. LinkedIn URL unverified |
 
 ## Tier 2 — Charlotte Healthcare
 
