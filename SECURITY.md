@@ -60,11 +60,62 @@ Add the TXT record they provide to DNS.
 - [ ] API tokens scoped to minimum permissions
 - [ ] No secrets in wrangler.toml (use wrangler secret)
 
+## Payment Infrastructure Map
+
+Two separate payment systems:
+
+realitydb-store (Stripe):
+  Location: C:\Users\HP\Documents\realitydb-store
+  GitHub: github.com/emkwambe/realitydb-store
+  URL: store.realitydb.dev
+  Purpose: Dataset one-time purchases + subscriptions
+  Payment: Stripe (STRIPE_SECRET_KEY, STRIPE_WEBHOOK_SECRET)
+  Status: Production, Sprint 1 security applied
+
+lab-api Worker (Dodo Payments):
+  Location: C:\Users\HP\Documents\databox\workers\lab-api
+  Purpose: SimLab purchases, credit grants, subscriptions
+  Payment: Dodo Payments (DODO_API_KEY, DODO_WEBHOOK_SECRET)
+  Webhook: Standard Webhooks HMAC-SHA256 (verified)
+  Status: Production, Dodo is primary processor
+
 ## Dodo Payments Security Checklist
+(applies to lab-api Worker, not realitydb-store)
 - [ ] Webhook signature validation implemented
-- [ ] Download tokens are UUID v4 (not sequential)
-- [ ] Tokens invalidated after first use
-- [ ] Rate limiting on download endpoint
+      (verifyDodoSignature() — Standard Webhooks,
+       HMAC-SHA256 — CONFIRMED IMPLEMENTED)
+- [ ] DODO_API_KEY stored as wrangler secret
+      (not in wrangler.toml — CONFIRM)
+- [ ] DODO_WEBHOOK_SECRET stored as wrangler secret
+      (not in wrangler.toml — CONFIRM)
+- [ ] processDodoEvent() handles all event types:
+      payment.succeeded ✅
+      subscription.active ✅
+      subscription.cancelled ✅
+      subscription.renewed ✅
+      subscription.on_hold ✅
+- [ ] Rate limiting on /v1/webhooks/dodo
+      (currently: acks immediately, async processing
+       — verify no replay attack vector)
+- [ ] Download tokens in lab-api are one-time use
+      (verify upsertDodoEntitlement() invalidates)
+- [ ] DODO_PRODUCTS map kept in sync with
+      live Dodo dashboard products
+
+## Stripe Security Checklist
+(applies to realitydb-store Worker)
+- [x] Webhook signature validation implemented
+      (verifyStripeWebhook() — HMAC-SHA256)
+- [x] One-time download enforcement
+      (downloaded_at set on first download — Sprint 1)
+- [x] Downloads audit table populated
+      (ip, user_agent logged — Sprint 1)
+- [x] Rate limiting via KV
+      (3 attempts per token per hour — Sprint 1)
+- [ ] STRIPE_PRICE_TEAM_MONTHLY — real ID needed
+- [ ] STRIPE_PRICE_TEAM_ANNUAL — real ID needed
+- [ ] Subscription bypass in handleDownload
+      (pending real Stripe Price IDs)
 
 ## Incident Response
 If a token is compromised:
