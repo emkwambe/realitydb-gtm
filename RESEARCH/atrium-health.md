@@ -59,7 +59,7 @@ From public job postings and press:
 | Name | Title | LinkedIn | Notes |
 |------|-------|----------|-------|
 | Tina Esposito | SVP & Chief Data Officer, Advocate Health | https://www.linkedin.com/in/tina-esposito-19287412/ | **Top target.** Owns cloud data engineering, data governance, data science. Leads the modern data platform + post-merger data integration. In CDO role since Apr 2023; prior CHIO at Advocate Aurora. Chicago-area based but enterprise-wide (Charlotte-HQ org). Active public speaker (Becker's, Truveta, Healthcare IT News). |
-| Rasu B. Shrestha | Enterprise EVP & Chief Strategy and Transformation Officer, Advocate Health / Atrium Health | Search: "Rasu Shrestha Advocate Health" LinkedIn (exact URL not verified) | Executive sponsor for enterprise data and analytics. Top-down air-cover contact. Based in Charlotte. |
+| Rasu B. Shrestha | Enterprise EVP & Chief Strategy and Transformation Officer, Advocate Health / Atrium Health | https://www.linkedin.com/in/rasushrestha | VERIFIED — profile shows Advocate Health exec leadership; Atrium official bio confirms title. Executive sponsor / air cover. |
 | Andy Crowder | SVP, Chief Digital Officer & CIO Southeast Region, Advocate Health | https://www.linkedin.com/in/andycrowder | Charlotte-based. Former Atrium Chief Information & Analytics Officer (since 2019). CHCIO, CDH-E. Leads digital/IT for the Southeast; strong secondary exec contact. |
 
 ## Outreach Messages
@@ -68,8 +68,8 @@ _From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). Framing: HIPA
 
 ### Tina Esposito — SVP & Chief Data Officer, Advocate Health (PRIMARY)
 
-**LinkedIn connection request (<300 chars)**
-> Tina — you own cloud data engineering, governance and data science at Advocate, and you've spoken about the pragmatic work of integrating post-merger data on a modern platform. Every integration cycle needs realistic test data that isn't real PHI. I built RealityDB for exactly that. Would love to connect.
+**LinkedIn connection request (277 chars)**
+> Tina — you own cloud data engineering, governance and data science at Advocate, and you've spoken about integrating post-merger data on a modern platform. Every integration cycle needs realistic test data that isn't real PHI. RealityDB does exactly that. Would love to connect.
 
 **LinkedIn DM follow-up (<150 words)**
 > Tina — integrating Atrium + Advocate Aurora data (and soon WakeMed/OrthoCarolina) means constant pipeline validation, and HIPAA means you can't use real PHI to do it.

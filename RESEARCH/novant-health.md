@@ -51,12 +51,12 @@ Novant Health is a ~$10B-revenue not-for-profit integrated health system headqua
 ## Contacts Found
 | Name | Title | LinkedIn | Notes |
 | --- | --- | --- | --- |
-| Stephanie Lenzner | SVP, Value Intelligence (analytics, data science, performance intelligence) | Search: "Stephanie Lenzner Novant Health" (exact URL not verified) | PRIMARY. Named June 22, 2026; reports to CDIO. Ex-CDAO at Froedtert, ex-Mayo Clinic digital/data/AI. Economic buyer. |
+| Stephanie Lenzner | SVP, Value Intelligence (analytics, data science, performance intelligence) | https://www.linkedin.com/in/stephanie-lenzner-9031553/ | LIKELY MATCH — RocketReach + her posts tie this profile to "Mayo Clinic, Chair Digital/Data/AI Value," matching the Novant press release. Confirm the employer flip to Novant on view. PRIMARY / economic buyer. |
 | Onyeka Nchege | EVP, Chief Digital & Information Officer | https://www.linkedin.com/in/onyeka-nchege/ | Executive sponsor. Owns analytics/AI/cyber. On Truveta board. 2024 Carolina ORBIE CIO of the Year. |
 | Karen Hegarty, PhD | Head of AI & Innovation (Institute of Innovation & AI) | https://www.linkedin.com/in/karen-hegarty/ | AI use-case champion; ethical/safe AI focus. Good for AI training-data angle. |
 | Keith Murphy, PhD | Data Scientist II | https://www.linkedin.com/in/keith-murphymph/ | Charlotte-based IC; potential technical validator. |
 | Stephanie Fontanella | Director of Informatics Solutions | https://www.linkedin.com/in/stephanie-fontanella-66b37766/ | Informatics leadership (Greensboro area). |
-| Sandip Ray | Healthcare analytics, Novant Health (Charlotte) | https://www.linkedin.com/in/sr72/ | Charlotte-based analytics; title unconfirmed. |
+| Sandip Ray | Senior Program Manager, Novant Health (Charlotte) | https://www.linkedin.com/in/sr72/ | VERIFIED profile (Novant, Charlotte, Auburn Univ). TITLE CORRECTED — Senior Program Manager (program/project mgmt, IT & change), NOT a data/analytics IC. Outreach framing likely no longer fits — re-target or drop. |
 
 ## Outreach Messages
 

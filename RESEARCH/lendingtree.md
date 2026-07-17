@@ -52,9 +52,9 @@ LendingTree, Inc. (NASDAQ: TREE) is an online financial-services marketplace tha
 | Darshit Parekh | Senior Director, Data Engineering | https://www.linkedin.com/in/darshit-mukesh-parekh/ | PRIMARY entry point. At LendingTree since 2012; owns enterprise data strategy, CDP/single-source-of-truth, platform modernization. (Alt profile also seen: linkedin.com/in/darshit-parekh-8659a411/) |
 | Sarah Bacha (née Guidry) | SVP, Head of Analytics & Corporate Strategy (Strategy, Analytics & AI) | https://www.linkedin.com/in/sarah-bacha-guidry-bb3a9b19/ | Executive sponsor / air-cover. Leads Analytics + AI lab; on NC AI Advisory Council; public voice on responsible AI. Charlotte-based. |
 | Samira Shaikh | Director, Data Science | https://www.linkedin.com/in/drsamirashaikh/ | PhD, NLP/GenAI background, ex-UNC Charlotte faculty. Leads DS; team actively hiring. Good technical champion for model-validation angle. |
-| Brian Holbrook | Senior Manager, Revenue Analytics (listed under Data Engineering org) | Search: "Brian Holbrook LendingTree" | Analytics manager; consumer of data/test environments. Exact LinkedIn URL not verified. |
-| Owais Ahmed | Principal / Lead Data Engineer | Search: "Owais Ahmed LendingTree data engineer" | Senior IC on data platform; hands-on pipeline owner. Exact LinkedIn URL not verified. |
-| Luis Lema | Staff Data Engineer | Search: "Luis Lema LendingTree Staff Data Engineer" | Senior IC; potential hands-on evaluator. Exact LinkedIn URL not verified. |
+| Brian Holbrook | Senior Manager, Revenue Analytics (listed under Data Engineering org) | VERIFY MANUALLY | Role confirmed (The Org, ZoomInfo), but the two "Brian Holbrook" LinkedIn profiles found are different people — no LendingTree match. |
+| Owais Ahmed | Principal / Lead Data Engineer | VERIFY MANUALLY | Role confirmed on The Org, but no LinkedIn profile disambiguates to LendingTree/Charlotte. |
+| Luis Lema | Staff Data Engineer | https://www.linkedin.com/in/llema/ | VERIFIED — profile shows LendingTree; corroborated by AeroLeads (Staff Data Engineer) and The Org. |
 
 ## Outreach Messages
 
@@ -62,8 +62,8 @@ _From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). Framing: Lend
 
 ### Darshit Parekh — Senior Director, Data Engineering (PRIMARY)
 
-**LinkedIn connection request (<300 chars)**
-> Darshit — you own LendingTree's data platform and the CDP/single-source-of-truth build merging Marketing, Product, Sales & Contact Center data. Seeding those lower environments with real applicant PII is a GLBA/FCRA headache. I built RealityDB, a CLI for synthetic lending data. Charlotte founder — would value connecting.
+**LinkedIn connection request (265 chars)**
+> Darshit — you own LendingTree's data platform and the CDP/single-source-of-truth build. Seeding lower environments with real applicant PII is a GLBA/FCRA headache. RealityDB, my CLI for synthetic lending data, fixes that. Charlotte founder — would value connecting.
 
 **LinkedIn DM follow-up (<150 words)**
 > Darshit — unifying four channels into one customer-intelligence platform means your dev/test/QA environments need production-shaped data, and real applicant records (income, SSNs, credit) can't safely go there.
@@ -77,8 +77,8 @@ _From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). Framing: Lend
 
 ### Sarah Bacha — SVP, Head of Analytics & Corporate Strategy (+ AI) (AIR COVER)
 
-**LinkedIn connection request (<300 chars)**
-> Sarah — saw LendingTree championing NC's AI Strategic Roadmap and consumer-protection-first AI through your Advisory Council seat. Synthetic data lets your teams build and validate models without real applicant PII in dev/test — responsible by design. I built RealityDB for exactly this. Would love to connect.
+**LinkedIn connection request (294 chars)**
+> Sarah — saw LendingTree championing NC's AI Strategic Roadmap and consumer-protection-first AI via your Advisory Council seat. Synthetic data lets teams build and validate models without real applicant PII in dev/test — responsible by design. RealityDB does exactly this. Would love to connect.
 
 **LinkedIn DM follow-up (<150 words)**
 > Sarah — your public stance on responsible, consumer-protection-first AI (and the NC AI Roadmap work) is the exact posture I built RealityDB around.
@@ -92,8 +92,8 @@ _From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). Framing: Lend
 
 ### Samira Shaikh — Director, Data Science
 
-**LinkedIn connection request (<300 chars)**
-> Samira — with your DS team scaling and validating credit/insurance-matching models, the bottleneck is usually realistic, edge-case-rich data you can't pull from production. I built RealityDB, a CLI for synthetic lending/insurance data with controllable rare cases. Charlotte founder (and UNCC fan) — would value connecting.
+**LinkedIn connection request (300 chars)**
+> Samira — as your DS team scales and validates credit/insurance-matching models, the bottleneck is realistic, edge-case-rich data you can't pull from production. RealityDB, my CLI for synthetic lending/insurance data with controllable rare cases, solves it. Charlotte founder — would value connecting.
 
 **LinkedIn DM follow-up (<150 words)**
 > Samira — building and validating credit- and insurance-matching models is only as good as the edge cases in your data, and production rarely surfaces the rare/high-risk scenarios safely.
@@ -107,8 +107,8 @@ _From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). Framing: Lend
 
 ### Brian Holbrook — Senior Manager, Revenue Analytics
 
-**LinkedIn connection request (<300 chars)**
-> Brian — revenue analytics at LendingTree runs on conversion and lead-quality data that's hard to prototype against without touching real applicant records. I built RealityDB, a CLI that generates realistic synthetic lending/conversion data for exactly that. Charlotte founder — would value connecting.
+**LinkedIn connection request (293 chars)**
+> Brian — revenue analytics at LendingTree runs on conversion and lead-quality data that's hard to prototype against without touching real applicant records. RealityDB, a CLI that generates realistic synthetic lending/conversion data for exactly that. Charlotte founder — would value connecting.
 
 **LinkedIn DM follow-up (<150 words)**
 > Brian — prototyping revenue and conversion analytics usually means either waiting on prod-data access or risking real applicant PII in a dashboard sandbox.
