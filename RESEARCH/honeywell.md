@@ -187,15 +187,46 @@ strong exec sponsor angle but higher in the org; better as a
 
 | Name | Title | LinkedIn | Notes |
 |------|-------|----------|-------|
-| Alexander Ross | Chief Data Science Officer / VP Data Science, Honeywell Connected Enterprise | https://www.linkedin.com/in/alexandersross/ | PRIMARY target. Ex-Capital One, GE Digital, GE Healthcare. Owns DS + data engineering for Forge/HCE. LinkedIn from search result — confirm name/photo match before outreach. |
+| Alexander Ross | Chief Data Science Officer / VP Data Science, Honeywell Connected Enterprise | https://www.linkedin.com/in/alexandersross/ | CONFIRMED (2026-07-17) — profile shows CDSO/VP Data Science at Honeywell, prior VP Data Science at Capital One + GE Digital/Healthcare. PRIMARY target. Owns DS + data engineering for Forge/HCE. |
 | Chen Lin | VP & Chief Data Analytics Officer, Supply Chain Digitization & Advanced Manufacturing | https://www.linkedin.com/in/chenclin/ | SECONDARY. Autonomous supply chain program. URL corroborated across multiple sources — high confidence. |
 | Ash Dhupar | Chief AI & Data Officer, Honeywell Aerospace | https://www.linkedin.com/in/ash-dhupar-048502/ | HIGH-URGENCY (new role May 2026, separate co.). Ex-Analog Devices, BAE Systems. ITAR/EAR angle. URL from search result — verify photo/name match. |
-| Sheila Jordan | SVP & Chief Digital Technology Officer | VERIFY MANUALLY | Enterprise Data + Snowflake owner. Exec-sponsor angle. Strong web presence (The Org, Crunchbase) but exact LinkedIn URL not captured in searches. |
-| Suresh Venkatarayalu | SVP, CTO & President, Honeywell Connected Enterprise | VERIFY MANUALLY | Oversees Forge + full software lifecycle. Senior sponsor. LinkedIn URL not captured; on Honeywell leadership page. |
-| David Trice | VP & GM, Honeywell Connected Enterprise (Buildings) / Chief Product Officer, HCE | VERIFY MANUALLY | Product owner for Forge buildings. Potential buyer for building-IoT custom data. LinkedIn URL not captured. |
+| Sheila Jordan | SVP & Chief Digital Technology Officer | https://www.linkedin.com/in/jordansheila | CONFIRMED (2026-07-17) — Honeywell leadership page + LinkedIn (vanity "jordansheila", Charlotte NC) confirm SVP & CDTO. Enterprise Data + Snowflake owner; exec sponsor. |
+| Suresh Venkatarayalu | SVP, CTO & President, Honeywell Connected Enterprise | VERIFY MANUALLY (no personal URL found) | CANNOT CONFIRM URL (2026-07-17) — title/employer verified on honeywell.com/leadership (now "Honeywell Technologies", Charlotte), but no personal linkedin.com/in/ profile locatable. Senior sponsor over Forge. |
+| David Trice | Chief Product Officer & GM, Honeywell Connected Enterprise (Forge) | https://www.linkedin.com/in/david-trice-a69973 | CONFIRMED (2026-07-17) — CPO & GM for HCE/Forge (Atlanta). Note: Crunchbase lists "CPO & GM, Connected Safety & Productivity" + possible parallel role — confirm current tenure before outreach. |
 
 ## Outreach Messages
-To be drafted by message-drafter agent.
+
+_From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). CONSULTING play. Framing: custom industrial/IoT pack (sensor readings, equipment telemetry, maintenance records, fault codes, asset health), $5K–$15K; Forge predictive-maintenance angle; Alexander Ross already sold on synthetic data from his Capital One background. Supply-chain pack for immediate value. Compliance: ITAR/EAR export control on real technical data._
+
+### Alexander Ross — Chief Data Science Officer / VP Data Science, Connected Enterprise (PRIMARY)
+
+**LinkedIn connection request (299 chars)**
+> Alex — coming from Capital One you already know synthetic data's value; the same play fits Honeywell Forge. Predictive-maintenance and anomaly models need realistic sensor telemetry and fault codes without real equipment data. RealityDB does exactly that. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Alex — you saw at Capital One how synthetic data unblocks model development without touching sensitive production records. The same pattern fits Honeywell Forge: predictive-maintenance and anomaly-detection models need realistic sensor telemetry, equipment readings, fault codes and asset-health data — and real equipment data is slow, sparse on failures, and export-controlled.
+>
+> RealityDB (@realitydb/cli) generates synthetic industrial/IoT datasets with controllable fault and edge-case distributions, deterministically seeded for reproducible model tests. A custom industrial pack ($5K–$15K) maps to Forge's exact telemetry schema.
+>
+> Happy to build a free Forge-relevant sample so your DS team can validate against it.
+>
+> Worth 15 minutes?
+> — Eddy (Charlotte)
+
+### Sheila Jordan — SVP & Chief Digital Technology Officer (SECONDARY / EXEC SPONSOR)
+
+**LinkedIn connection request (290 chars)**
+> Sheila — as CDTO you own Honeywell's enterprise data and Snowflake estate, where every team needs realistic data to build on without exposing real equipment or customer records. RealityDB generates production-shaped synthetic industrial/IoT data. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Sheila — across Honeywell's Snowflake estate, analytics and AI teams keep hitting the same blocker: they need realistic industrial and IoT data to build and test against, but real equipment telemetry is sparse on failures and often export-controlled.
+>
+> RealityDB (@realitydb/cli) generates synthetic industrial/IoT datasets — sensor readings, equipment telemetry, fault codes, asset health — deterministically seeded and loadable straight into Snowflake. Supply-chain data too, for immediate wins. Custom packs map to your teams' exact schemas.
+>
+> It's a governed, safe data layer for Forge and enterprise analytics development.
+>
+> Could I send your data teams a free Honeywell-relevant sample to try?
+> — Eddy (Charlotte)
 
 ## Sources
 - Honeywell leadership page: https://www.honeywell.com/us/en/company/leadership

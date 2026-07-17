@@ -35,22 +35,22 @@ Responses: 0
 |------|-------|---------|----------|--------|-------|
 | Chandhu Nair | SVP, Data, AI & Innovation | Lowe's | linkedin.com/in/chandhunair | FOUND | PRIMARY buyer. Owns data/analytics org + modernization. Ex-CEO Cognitive Retail. Entry: supply-chain pack → custom us-retail ($2.5K–$10K) |
 | Seemantini Godbole | EVP, Chief Digital & Information Officer | Lowe's | linkedin.com/in/seemantini-godbole-241a4a1 | FOUND | Exec sponsor / air cover. Owns enterprise tech + AI transformation |
-| Venkat Swarna | Principal Engineer / Director, Data (Mooresville) | Lowe's | linkedin.com/in/venkat-swarna-37029a28 | FOUND | Warm technical entry. Verify exact current title |
-| Saurabh K | Sr. Director – Data Engineering & AI | Lowe's | VERIFY MANUALLY | FOUND | Likely Lowe's India/Bengaluru, not Charlotte — confirm location + employer |
+| Venkat Swarna | Principal Engineer / Director, Data (Mooresville) | Lowe's | linkedin.com/in/venkat-swarna-37029a28 | FOUND | CONFIRMED (07-17) — Lowe's Mooresville NC. Warm technical entry |
+| Saurabh K | Sr. Director, Data Engineering & AI | Lowe's India (Bengaluru) | in.linkedin.com/in/saurabh-k-73319623 | FOUND | UPDATED (07-17) — India-based, NOT Charlotte. De-prioritize for Charlotte outreach |
 | Naveen S. | Sr. Data Engineer (Charlotte) | Lowe's | linkedin.com/in/naveen-s-aa2b7179 | FOUND | IC-level, tech-stack validation only |
-| Alexander Ross | Chief Data Science Officer / VP Data Science, Connected Enterprise | Honeywell Technologies | linkedin.com/in/alexandersross | FOUND | PRIMARY. Ex-Capital One/GE — already sold on synthetic data. Owns DS+eng for Forge. Custom IoT pack ($5K–$15K). Verify photo |
+| Alexander Ross | Chief Data Science Officer / VP Data Science, Connected Enterprise | Honeywell Technologies | linkedin.com/in/alexandersross | FOUND | CONFIRMED (07-17). PRIMARY. Ex-Capital One/GE — already sold on synthetic data. Owns DS+eng for Forge. Custom IoT pack ($5K–$15K) |
 | Chen Lin | VP & Chief Data Analytics Officer, Supply Chain Digitization | Honeywell Technologies | linkedin.com/in/chenclin | FOUND | Autonomous supply chain → supply-chain pack fit |
 | Ash Dhupar | Chief AI & Data Officer | Honeywell Aerospace | linkedin.com/in/ash-dhupar-048502 | FOUND | New May 2026; ITAR/EAR export-control angle. Verify match |
-| Sheila Jordan | SVP & Chief Digital Technology Officer | Honeywell | VERIFY MANUALLY | FOUND | Snowflake / Enterprise Data owner; exec sponsor |
-| Suresh Venkatarayalu | SVP, CTO & President, Connected Enterprise | Honeywell | VERIFY MANUALLY | FOUND | Senior sponsor over Forge |
-| David Trice | VP & GM HCE Buildings / CPO, HCE | Honeywell Technologies | VERIFY MANUALLY | FOUND | Product owner for Forge buildings |
-| Ben Zhang | VP, Enterprise Data Analytics | Duke Energy | VERIFY MANUALLY | FOUND | PRIMARY. Owns data science, iGrid, smart-meter revenue protection. Optimist Hall, Charlotte. Multiple namesakes — confirm |
-| Justin Brown | Director, Grid Data & GIS | Duke Energy | linkedin.com/in/justin-brown-89890b28 | FOUND | Owns grid/GIS data ("grid nodes"). Strong secondary |
-| Aaron Smith | Analytics Manager | Duke Energy | linkedin.com/in/aaron-smith-5aa62090 | FOUND | Common name — verify Duke Charlotte profile |
+| Sheila Jordan | SVP & Chief Digital Technology Officer | Honeywell | linkedin.com/in/jordansheila | FOUND | CONFIRMED (07-17). Snowflake / Enterprise Data owner; exec sponsor |
+| Suresh Venkatarayalu | SVP, CTO & President, Connected Enterprise | Honeywell | VERIFY MANUALLY | FOUND | Title/employer confirmed (07-17) but no personal LinkedIn URL findable. Senior sponsor over Forge |
+| David Trice | Chief Product Officer & GM, Connected Enterprise (Forge) | Honeywell Technologies | linkedin.com/in/david-trice-a69973 | FOUND | CONFIRMED (07-17), Atlanta. Confirm current tenure (possible parallel role). Product owner for Forge |
+| Ben Zhang | VP, Enterprise Data Analytics | Duke Energy | VERIFY MANUALLY | FOUND | PRIMARY. Role confirmed (07-17) via Duke article (iGrid, smart-meter, Optimist Hall) but no unique LinkedIn URL — multiple namesakes |
+| Justin Brown | Director, Grid Data & GIS | Duke Energy | linkedin.com/in/justin-brown-89890b28 | FOUND | CONFIRMED (07-17) — Duke Charlotte. Owns grid/GIS ("grid nodes"). Strong secondary |
+| Aaron Smith | Analytics Manager | Duke Energy | linkedin.com/in/aaron-smith-5aa62090 | FOUND | Common name — verify Duke Charlotte profile (not in this pass) |
 | Todd Beaver | Manager, DET Analytics | Duke Energy | linkedin.com/in/todd-beaver-38222910 | FOUND | Charlotte Metro. Hands-on analytics delivery |
-| Bonnie Titone | SVP & CIO | Duke Energy | linkedin.com/in/bonnie-titone-ab26541 | FOUND | Exec sponsor; digital transformation + data optimization |
-| Richard Donaldson | SVP & Chief Information Officer | Duke Energy | VERIFY MANUALLY | FOUND | "Data before dazzle." Title overlaps Titone — confirm current org |
-| Norv Clontz | VP, Data Strategy & Innovation | Duke Energy | VERIFY MANUALLY | FOUND | linkedin.com/in/norvclontz may now be at E Source — confirm employer |
+| Bonnie Titone | EVP & Chief Administrative Officer (former SVP & CIO) | Duke Energy | linkedin.com/in/bonnie-titone-ab26541 | FOUND | UPDATED (07-17) — no longer CIO (Donaldson succeeded her 2025). Exec sponsor for digital transformation |
+| Richard Donaldson | SVP & Chief Information Officer | Duke Energy | linkedin.com/in/richard-donaldson-b13637192 | FOUND | CONFIRMED (07-17) — current CIO (named 2025). "Data before dazzle." ~25 yrs at Duke |
+| Norv Clontz | VP, Data Strategy & Innovation — E Source (FORMERLY Duke) | E Source | linkedin.com/in/norvclontz | PASS | UPDATED (07-17) — LEFT DUKE for E Source (~Jul 2025). Not a current Duke prospect |
 
 ## Tier 2 — Charlotte Healthcare
 
@@ -65,7 +65,7 @@ Responses: 0
 | Karen Hegarty, PhD | Head of AI & Innovation (Institute of Innovation & AI) | Novant Health | linkedin.com/in/karen-hegarty | FOUND | AI use-case champion; ethical/safe AI. Good for AI training-data angle |
 | Keith Murphy, PhD | Data Scientist II | Novant Health | linkedin.com/in/keith-murphymph | FOUND | Charlotte-based IC; potential technical validator |
 | Stephanie Fontanella | Director of Informatics Solutions | Novant Health | linkedin.com/in/stephanie-fontanella-66b37766 | FOUND | Informatics leadership (Greensboro area) |
-| Sandip Ray | Senior Program Manager (Charlotte) | Novant Health | linkedin.com/in/sr72 | FOUND | VERIFIED profile. TITLE CORRECTED — Senior Program Manager (not analytics IC). Outreach framing likely no longer fits — re-target or drop |
+| Sandip Ray | Senior Program Manager, Healthcare Analytics | Novant Health | linkedin.com/in/sr72 | FOUND | VERIFIED profile (Novant, Charlotte, Auburn Univ). Program/project mgmt + healthcare analytics |
 
 ## Tier 3 — Bootcamp Instructors
 

@@ -146,20 +146,51 @@ dazzle" and NERC CIP / customer-privacy governance.
 
 | Name | Title | LinkedIn | Notes |
 |------|-------|----------|-------|
-| Ben Zhang | VP, Enterprise Data Analytics | VERIFY MANUALLY — multiple "Ben Zhang" profiles returned (linkedin.com/in/zhangben/ shows "Synergy Analytics Partners" which may be an outside/after role; also linkedin.com/in/ben-zhang-a8a2b2b4). Confirm the Duke Charlotte profile before outreach. | PRIMARY target. Owns company-wide data science (iGrid, smart-meter revenue protection). Optimist Hall, Charlotte. |
+| Ben Zhang | VP, Enterprise Data Analytics | VERIFY MANUALLY (no unique URL) | CANNOT CONFIRM URL (2026-07-17) — role verified via Duke's own "illumination" article (VP Enterprise Data Analytics; iGrid; Optimist Hall, Charlotte), but multiple LinkedIn namesakes and none uniquely verifiable. PRIMARY target; owns company-wide data science + smart-meter revenue protection. |
 | Justin Brown | Director, Grid Data & GIS | https://www.linkedin.com/in/justin-brown-89890b28/ | Owns grid/GIS data = "grid nodes" pack component. Charlotte. Strong secondary. |
 | Aaron Smith | Analytics Manager | https://www.linkedin.com/in/aaron-smith-5aa62090/ | Common name — VERIFY the Duke Charlotte profile. Hands-on champion. |
 | Todd Beaver | Manager, DET Analytics | https://www.linkedin.com/in/todd-beaver-38222910/ | Charlotte Metro. Hands-on analytics delivery owner. |
-| Bonnie Titone | SVP & CIO / EVP & Chief Administrative Officer | https://www.linkedin.com/in/bonnie-titone-ab26541 | Exec sponsor. Leads digital transformation + data optimization. Joined 2019 from PG&E. (Title may overlap/have shifted vs Donaldson — see note.) |
-| Richard Donaldson | SVP & Chief Information Officer | VERIFY MANUALLY — no LinkedIn URL confirmed in search. | ~25 yrs at Duke; profiled Oct 2025 as CIO ~9 months in. Owns AI/digital strategy ("Data before dazzle"). Titone and Donaldson both surface as "CIO" — org structure likely shifted; confirm current titles. |
-| Norv Clontz | VP, Data Strategy & Innovation (Duke); Analytics Leadership Team | VERIFY MANUALLY — https://www.linkedin.com/in/norvclontz/ ; one source indicates he may now be at E Source, not Duke. Confirm current employer. | Historically on Duke's Analytics Leadership Team council. |
+| Bonnie Titone | EVP & Chief Administrative Officer (former SVP & CIO) | https://www.linkedin.com/in/bonnie-titone-ab26541 | UPDATED (2026-07-17) — NO LONGER CIO; Donaldson succeeded her (2025). Now EVP & Chief Administrative Officer. Joined 2019 from PG&E. Exec sponsor for digital transformation. |
+| Richard Donaldson | SVP & Chief Information Officer | https://www.linkedin.com/in/richard-donaldson-b13637192 | CONFIRMED (2026-07-17) — Duke leadership page + LinkedIn confirm SVP & CIO (named 2025, succeeding Titone); ~25 yrs at Duke. Owns AI/digital strategy ("Data before dazzle"). Current CIO of record. |
+| Norv Clontz | VP, Data Strategy & Innovation — E Source (FORMERLY Duke) | https://www.linkedin.com/in/norvclontz | UPDATED (2026-07-17) — LEFT DUKE. Now VP Data Strategy & Innovation at E Source (~July 2025); his Duke role was Director, Data Science Innovation. Not a current Duke prospect. |
 
 Note: No single formal "Chief Data Officer" title found at Duke — data
 leadership is split between Ben Zhang (analytics/data science) and the CIO org
 (Donaldson/Titone). Ben Zhang is the functional data leader to target.
 
 ## Outreach Messages
-To be drafted by message-drafter agent.
+
+_From Eddy Mkwambe personally (Charlotte founder, @realitydb/cli). CONSULTING play: custom us-utility pack (smart-meter readings, outage records, customer accounts, grid nodes, demand forecasting), $10K–$25K. Pain anchor = NERC CIP compliance + Duke's $10M NERC fine; real customer energy-usage data barred from dev/test (CPNI-adjacent). Ben Zhang owns smart-meter analytics; "data before dazzle" hook for the exec message._
+
+_Note (2026-07-17 verification): Bonnie Titone is NO LONGER CIO — Richard Donaldson became CIO in 2025; Titone is now EVP & Chief Administrative Officer. Message below still targets her as exec sponsor per request; consider Donaldson (current CIO, "data before dazzle") as the alternative/primary exec._
+
+### Ben Zhang — VP, Enterprise Data Analytics (PRIMARY)
+
+**LinkedIn connection request (297 chars)**
+> Ben — you own Duke's smart-meter analytics and iGrid forecasting, but NERC CIP (Duke's $10M fine looms) and customer-privacy rules keep real consumption data out of dev/test. RealityDB generates synthetic utility data — meter reads, outages, grid nodes. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Ben — your smart-meter revenue-protection and iGrid forecasting programs run on exactly the data you can't freely copy into dev, test or model-training: real customer energy usage is privacy-encumbered, and NERC CIP (Duke's $10M fine is the reminder) makes every regulated-data footprint in lower environments a liability.
+>
+> RealityDB (@realitydb/cli) generates synthetic utility data — smart-meter readings, outage records, customer accounts, grid nodes, demand-forecasting series — deterministically seeded for reproducible model tests, with zero regulated data. A custom us-utility pack ($10K–$25K) matches your exact schema.
+>
+> Happy to build a free Duke-relevant sample your team can validate against.
+>
+> Worth 15 minutes?
+> — Eddy (Charlotte)
+
+### Bonnie Titone — EVP & Chief Administrative Officer, former SVP & CIO (SECONDARY / EXEC SPONSOR)
+
+**LinkedIn connection request (294 chars)**
+> Bonnie — Duke's "data before dazzle" principle (quality data before AI) is exactly why synthetic data matters: teams get realistic meter/grid data to build on without dragging NERC CIP-regulated or customer records into dev/test. RealityDB does this. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Bonnie — the "data before dazzle" principle — get the data foundation right before chasing AI — is the case for synthetic data in one line. Duke's analytics and grid-modernization teams need realistic data to build on, but real customer usage is privacy-encumbered and NERC CIP keeps regulated data out of lower environments (the $10M fine is the reminder).
+>
+> RealityDB (@realitydb/cli) generates synthetic utility data — smart-meter readings, outages, customer accounts, grid nodes, demand forecasting — deterministically seeded and free of regulated data. Custom us-utility packs map to Duke's schema.
+>
+> Could I send your data teams a free Duke-relevant sample to try?
+> — Eddy (Charlotte)
 
 ## Sources
 - https://www.duke-energy.com/our-company/about-us/leadership

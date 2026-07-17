@@ -169,12 +169,58 @@ bet, then escalate.
 |------|-------|----------|-------|
 | Chandhu Nair | SVP, Data, AI & Innovation (also Stores; leads data/analytics org, Innovation Labs, marketing tech) | https://www.linkedin.com/in/chandhunair/ | PRIMARY buyer. Reports to Godbole. Ex-CEO/co-founder Cognitive Retail. Joined Lowe's 2020. Public data-strategy spokesperson (CDO Magazine, DataIQ 100). URL matches profile in search; confirm before outreach. |
 | Seemantini Godbole | EVP, Chief Digital & Information Officer | https://www.linkedin.com/in/seemantini-godbole-241a4a1/ | Owns enterprise tech + AI transformation. Executive sponsor / air-cover, not first call. Joined 2018, 25+ yrs tech. |
-| Venkat Swarna | Principal Engineer / Director, Data (Mooresville) | https://www.linkedin.com/in/venkat-swarna-37029a28/ | Warm technical entry point. Building analytics/data-eng team. VERIFY exact current title before outreach. |
-| Saurabh K | Sr. Director – Data Engineering & AI | VERIFY MANUALLY | Search surfaced in.linkedin.com/in/saurabh-k-73319623 (India-domain profile); could be Lowe's India / Bengaluru tech center, not Charlotte. Confirm location + current employer before use. |
+| Venkat Swarna | Principal Engineer / Director, Data (Mooresville) | https://www.linkedin.com/in/venkat-swarna-37029a28/ | CONFIRMED (2026-07-17) — profile title "Principal Engineer/Director, Data" at Lowe's, Mooresville NC; corroborated by ZoomInfo/RocketReach. Warm technical entry point. |
+| Saurabh K | Sr. Director, Data Engineering & AI — Lowe's India (Bengaluru) | https://in.linkedin.com/in/saurabh-k-73319623 | UPDATED (2026-07-17) — India-based (Lowe's India / Bengaluru GCC), NOT Charlotte/Mooresville. No US-based namesake in this role found. De-prioritize for Charlotte outreach. |
 | Naveen S. | Sr. Data Engineer (Charlotte) | https://www.linkedin.com/in/naveen-s-aa2b7179/ | IC-level, not a buyer. Useful for tech-stack validation only. |
 
 ## Outreach Messages
-To be drafted by message-drafter agent.
+
+_From Eddy Mkwambe personally (Charlotte-area founder, @realitydb/cli). Framing: PCI-DSS + CCPA/CPRA keep real customer purchase/loyalty data out of dev/test. Entry = supply-chain pack; consulting play = custom us-retail pack (transactions, inventory, loyalty, store performance, SKU-level), $2.5K–$10K._
+
+### Chandhu Nair — SVP, Data, AI & Innovation (PRIMARY)
+
+**LinkedIn connection request (297 chars)**
+> Chandhu — MyLowe's Rewards and SKU-level purchase data are the spine of your personalization work, but PCI-DSS and CCPA keep that real customer data out of dev/test. RealityDB generates production-shaped synthetic retail data so teams build safely. Charlotte-area founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Chandhu — your data/AI modernization runs on loyalty and SKU-level transaction data, and PCI-DSS/CCPA mean none of it can safely sit in dev, test or analytics sandboxes.
+>
+> RealityDB (@realitydb/cli) generates production-shaped synthetic retail data — transactions, inventory, loyalty, store performance, SKU-level detail — deterministically seeded so pipelines and models are reproducible, with zero real customer PII. My supply-chain pack is a fast first win for the forecasting/replenishment work; a custom us-retail pack ($2.5K–$10K) matches your exact schema.
+>
+> Happy to generate a free Lowe's-shaped sample so your team can drop it into a lower environment and see the fit.
+>
+> Worth 15 minutes?
+> — Eddy (Charlotte)
+
+### Seemantini Godbole — EVP, Chief Digital & Information Officer (EXEC SPONSOR)
+
+**LinkedIn connection request (300 chars)**
+> Seemantini — as you drive Lowe's enterprise tech and AI transformation, one recurring blocker is realistic data teams can build on without putting real customer purchase/loyalty records (PCI-DSS/CCPA) into lower environments. RealityDB solves exactly that. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Seemantini — every AI and analytics initiative under your org eventually hits the same wall: teams need production-shaped data to build against, but PCI-DSS and CCPA keep real customer purchase and loyalty data out of dev, test and vendor environments.
+>
+> RealityDB (@realitydb/cli) generates synthetic retail data — transactions, inventory, loyalty, store/SKU-level — deterministically seeded and free of real PII. It's a supply-chain pack for immediate wins, with custom us-retail datasets built to Lowe's schema.
+>
+> It accelerates every team that's currently waiting on safe data access.
+>
+> Could I send your data leaders a free Lowe's-relevant sample to try?
+> — Eddy (Charlotte)
+
+### Venkat Swarna — Principal Engineer / Director, Data (WARM TECHNICAL ENTRY)
+
+**LinkedIn connection request (298 chars)**
+> Venkat — building Lowe's analytics/data-eng pipelines means constantly needing realistic data for dev/test, and real customer purchase/loyalty data can't go there (PCI-DSS/CCPA). RealityDB generates production-shaped synthetic retail data in one command. Charlotte founder — would value connecting.
+
+**LinkedIn DM follow-up (<150 words)**
+> Venkat — hands-on pipeline work needs production-shaped test data, and PCI-DSS/CCPA keep real customer purchase and loyalty records out of dev, test and QA.
+>
+> RealityDB (@realitydb/cli) generates synthetic retail data — transactions, inventory, loyalty, store/SKU-level — from one command, deterministically seeded so a failing pipeline test reproduces exactly. It loads straight into BigQuery/Spark, no prod-data request needed. My supply-chain pack is the quickest way to see it work.
+>
+> Happy to generate a free sample shaped to one of your pipelines so you can try it locally.
+>
+> Want me to send it over?
+> — Eddy (Charlotte)
 
 ## Sources
 - https://corporate.lowes.com/who-we-are/lowes-leadership/senior-leadership/chandhu-nair

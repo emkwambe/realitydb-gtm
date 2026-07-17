@@ -56,7 +56,7 @@ Novant Health is a ~$10B-revenue not-for-profit integrated health system headqua
 | Karen Hegarty, PhD | Head of AI & Innovation (Institute of Innovation & AI) | https://www.linkedin.com/in/karen-hegarty/ | AI use-case champion; ethical/safe AI focus. Good for AI training-data angle. |
 | Keith Murphy, PhD | Data Scientist II | https://www.linkedin.com/in/keith-murphymph/ | Charlotte-based IC; potential technical validator. |
 | Stephanie Fontanella | Director of Informatics Solutions | https://www.linkedin.com/in/stephanie-fontanella-66b37766/ | Informatics leadership (Greensboro area). |
-| Sandip Ray | Senior Program Manager, Novant Health (Charlotte) | https://www.linkedin.com/in/sr72/ | VERIFIED profile (Novant, Charlotte, Auburn Univ). TITLE CORRECTED — Senior Program Manager (program/project mgmt, IT & change), NOT a data/analytics IC. Outreach framing likely no longer fits — re-target or drop. |
+| Sandip Ray | Senior Program Manager, Healthcare Analytics | https://www.linkedin.com/in/sr72/ | VERIFIED profile (Novant, Charlotte, Auburn Univ). Program/project management + healthcare analytics; IT & change management background. |
 
 ## Outreach Messages
 
