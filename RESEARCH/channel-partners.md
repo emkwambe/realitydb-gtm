@@ -496,6 +496,11 @@ the 15% referral commission model, (5) ask for a 15-minute demo.
 > through your introduction. Worth 15 minutes to see the product?
 
 ### 8. Crowe LLP — Mohammad Nasar (Data & Analytics Consulting Partner, banking focus)
+
+**Status: ✅ Connection Request Sent — 2026-07-19**
+Message sent: Data & Analytics partner angle, banking focus, 15% referral
+model.
+
 > Mohammad — your banking data & analytics engagements likely hit the same
 > wall constantly: real customer financial data can't safely seed dev,
 > test, or model-validation environments. RealityDB generates deterministic
