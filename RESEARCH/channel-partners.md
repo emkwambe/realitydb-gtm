@@ -437,6 +437,10 @@ the 15% referral commission model, (5) ask for a 15-minute demo.
 > product and talk through fit for Slalom Ventures?
 
 ### 2. Protiviti — Erick Christensen (MD, Risk & Compliance, Charlotte)
+
+**Status: ✅ Connection Request Sent — 2026-07-20**
+Message sent: GRC/compliance angle, ex-BofA background, 15% referral model.
+
 > Erick — your risk & compliance work with Charlotte banks runs straight
 > into the problem RealityDB solves: real customer/financial records can't
 > safely populate dev, test, or model-validation environments, but teams
