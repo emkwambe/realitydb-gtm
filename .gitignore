@@ -1,0 +1,14 @@
+# Binary files
+*.mp4
+*.mov
+*.avi
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.zip
+
+# Large files
+*.psd
+*.sketch
